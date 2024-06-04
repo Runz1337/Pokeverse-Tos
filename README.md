@@ -12,7 +12,7 @@
 3. Engage in unauthorized framing of or linking to the website.
 4. Attempt to bypass any measures of the Bot designed to prevent or restrict access to the Bot, or any portion of the Bot.
 5. Use any type of unauthorized automation within Discord.
-6. Continous usage of hidden bugs in the bot without reporting for benifits.
+6. Intentional usage of hidden bugs in the bot without reporting.
 7. Intentionally overloading the bot.
 
 
